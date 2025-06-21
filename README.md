@@ -9,51 +9,7 @@ Um sistema interativo em Python com interface gráfica moderna para edição e a
 
 ## Funcionalidades
 
-### Histograma
-
-- **Cálculo e exibição do histograma** da imagem em tempo real
-- **Aba exclusiva com informações estatísticas** detalhadas:
-  - Média, mediana, desvio padrão, variância
-  - Valores mínimo e máximo
-  - Percentis (25% e 75%)
-  - Assimetria, curtose e entropia
-  - Contraste da imagem
-
-### Transformações de Intensidade
-
-- **Alargamento de contraste** com valores padrão (0-255)
-- **Equalização de histograma** automática
-
-### Filtros Passa-Baixa (Suavização)
-
-- **Filtro da média** (kernel 3x3)
-- **Filtro da mediana** (kernel 3x3)
-- **Filtro gaussiano** (sigma = 1.0)
-- **Filtro máximo** e **filtro mínimo** (kernel 3x3)
-
-### Filtros Passa-Alta (Detecção de Bordas)
-
-- **Laplaciano** para detecção de bordas
-- **Roberts** para detecção de bordas diagonais
-- **Prewitt** para detecção de bordas horizontais e verticais
-- **Sobel** para detecção de bordas com suavização
-
-### Convolução no Domínio da Frequência
-
-- **Filtros passa-alta e passa-baixa** no domínio da frequência (frequência de corte = 30)
-- **Espectro de Fourier** com visualização interativa:
-  - Imagem original
-  - Espectro de magnitude
-  - Perfis horizontal e vertical do centro
-
-### Morfologia Matemática
-
-- **Erosão** com kernel 3x3
-- **Dilatação** com kernel 3x3
-
-### Segmentação
-
-- **Método de Otsu** para limiarização automática
+- As funcionalidades foram dispostas conforme solicitado nos requisitos do projeto
 
 ## Interface e Experiência do Usuário
 
