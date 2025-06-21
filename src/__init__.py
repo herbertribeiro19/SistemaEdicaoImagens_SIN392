@@ -1,0 +1,1 @@
+# Pacote principal do sistema de edição de imagens 
