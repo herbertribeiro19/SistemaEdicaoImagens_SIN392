@@ -114,7 +114,7 @@ SistemaEdicaoImagens_SIN392/
 1. **Clone o repositório:**
 
    ```bash
-   git clone <url-do-repositorio>
+   git clone https://github.com/herbertribeiro19/SistemaEdicaoImagens_SIN392.git
    cd SistemaEdicaoImagens_SIN392
    ```
 
