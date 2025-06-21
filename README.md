@@ -2,6 +2,11 @@
 
 Um sistema interativo em Python com interface gráfica moderna para edição e análise de imagens, desenvolvido para a disciplina SIN392 - Processamento Digital de Imagens (UFV - Junho de 2025).
 
+## Link do Vídeo - Youtube
+
+### Vídeo
+- https://youtu.be/IiEnCvyNKXw
+
 ## Funcionalidades
 
 ### Histograma
